@@ -16,7 +16,9 @@ caracteristicas
 - barras separadas
 - la altura de la barra sera quien determine la frecuencia (altura= frecuencia)
 - el ancho de las barras seran fijas 
-- ( se usa con variables cualitativas y cuantitativas discretas ) 
+- ( se usa con variables cualitativas y cuantitativas discretas )
+- ![image](https://github.com/user-attachments/assets/c329b68d-4952-4fe1-8eee-c47a67d44306)
+
 
 
 Histograma:
